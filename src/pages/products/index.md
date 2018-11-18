@@ -4,10 +4,11 @@ title: Take Your Brand Online
 image: /img/adults-analysis-banking-1451447.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Tathaastu Digital is a digital agency made of creative technologists. We help
+  brands achieve business outcomes through marketing strategies based on deep
+  analytics and customer journeys. We create 360-degree campaigns that connect
+  online and offline experiences. We build and grow web systems, applications
+  and e-commerce platforms that propel your business forward.
 intro:
   blurbs:
     - image: /img/coffee.png
