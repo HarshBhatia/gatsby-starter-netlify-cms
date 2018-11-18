@@ -1,8 +1,7 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
+templateKey: product-page
+title: Take Your Brand Online
+image: /img/adults-analysis-banking-1451447.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -39,11 +38,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Digital Tathaastu is a digital agency made of creative technologists. We
+    help brands achieve business outcomes through marketing strategies based on
+    deep analytics and customer journeys. We create 360-degree campaigns that
+    connect online and offline experiences. We build and grow web systems,
+    applications and e-commerce platforms that propel your business forward.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
