@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Take Your Brand Online
+title: Want to Expand Your Digital Footprint ?
 image: /img/adults-analysis-banking-1451447.jpg
 heading: What we offer
 description: >-
@@ -11,33 +11,88 @@ description: >-
   and e-commerce platforms that propel your business forward.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/484.jpg
+      text: >-
+        A Complete Digital Marketing Services
+
+
+        As a digital marketing solution provider, our top concern is to not only
+        design and execute a digital marketing strategy for you but also monitor
+        it rigorously. Once we deploy content that is created to enhance your
+        web presence, we use a host of tools to track its results. These include
+        metrics like how many visitors it drew, how did the visitors respond,
+        was it successful in converting them etc.
+    - image: /img/35184.jpg
+      text: >-
+        Social Media Marketing
+
+
+        Why SMM is the Future of Digital Marketing?
+
+
+        *A number of marketing studies show that social media marketing enjoys a
+        higher conversion rate compared to other marketing channels.
+
+        * The same studies also show that close to 80% of b2b companies generate
+        leads via Facebook. Moreover, more than 71% of business owners rely on
+        social media to increase their brand awareness.
+
+        * Optimizing the social media presence of any website boosts brand
+        perception and positively influences customer behavior and buying
+        decisions. It’s also an excellent way to retain customer loyalty.
+    - image: /img/adwords-go-mobile.png
+      text: >-
+        Pay Per Click (PPC) Marketing
+
+
+        * One of the benefits of PPC services is that it offers quick and
+        guaranteed results. If instant traffic is your immediate concern, PPC is
+        the only option.
+
+
+        * PPC does wonders for your digital marketing campaign. Not only do you
+        get a quick entry into your target market but also stand to generate
+        revenues from the first day itself.
+
+
+        * The success of your online marketing is gauged from how many leads
+        your business gets. Our custom PPC platform gets you quality leads
+        almost instantly.
+
+
+        * Conversion rate is the most important metric for any online business.
+        With pay per click, we drive only quality traffic to your website.
+        Conversion rate is a lot higher when your website gets targeted traffic.
+
+
+        * PPC works wonderfully well with other digital marketing methods. 
+
+
+        * The ability to target a specific audience is the strongest feature of
+        PPC. We define and identify your target audience, which maximizes the
+        number of clicks and conversions for your paid ads.
+
+
+        * Using multiple keywords related to your genre while focusing on
+        specific personas in your target audience is made possible thanks to
+        PPC. This level of customization is unique to PPC marketing.
+    - image: /img/media-planning-strategy-flow-chart.jpg
+      text: >-
+        Media Planning and Buying
+
+
+        When you choose Digital Tathaastu as your media planner and service
+        provider for your media planning and buying needs, you get all of our
+        services. We do device targeting: right from iOS all the way to Android.
+        This allows us to increase the range of your expected target audience
+        and also craft effective penetration strategy which all come together in
+        the end to form a very successful media planning and buying strategy.
+
+
+        Targeting: The success of any media planning and buying campaign depends
+        on targeting the right group of people. Digital Tathaastu filters
+        audience based on your brand and targets the concerned audience. What
+        this does is ensure that your campaign is effective and goal oriented.
   heading: What we offer
   description: >-
     Digital Tathaastu is a digital agency made of creative technologists. We
@@ -46,12 +101,8 @@ intro:
     connect online and offline experiences. We build and grow web systems,
     applications and e-commerce platforms that propel your business forward.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ''
+  description: ''
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
