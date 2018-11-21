@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: What we offer
+title: 'About Us '
 ---
 ### Want to Expand Your Digital Footprint ?
 
